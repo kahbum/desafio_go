@@ -1,0 +1,1 @@
+dockerhub repo: https://hub.docker.com/r/kahbum/fullcycle
